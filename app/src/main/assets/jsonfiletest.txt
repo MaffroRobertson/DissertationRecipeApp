@@ -1,0 +1,246 @@
+{
+	"recipes": [{
+		"title": "spaghetti bolognaise",
+		"prep": ["boil pasta", "cook meat", "put sauce on"],
+		"calories": "674.6",
+		"url": "bologs.com",
+		"yield": "4",
+		"Ingredients": [{
+			"food": "spaghetti",
+			"quantity": "500",
+			"measure": "g"
+		}, {
+			"food": "mincemeat",
+			"quantity": "1",
+			"measure": "kg"
+		}, {
+			"food": "dolmio sauce",
+            "quantity": "125",
+            "measure": "ml"
+		}]
+	}, {
+		"title": "sandwich",
+		"prep": ["get bread and butter it", "apply spread evenly and then cut"],
+		"calories": "94.65675",
+		"url": "sandwich.com",
+		"yield": "1",
+		"Ingredients": [{
+			"food": "slice of bread",
+			"quantity": "2",
+			"measure": "slices"
+		}, {
+			"food": "some butter"
+		}, {
+			"food": "some sort of spread"
+		}]
+	}, {
+		"title": "Harissa chicken traybake",
+		"prep": ["Heat oven to 190C/170C fan/gas 5. Score deep lines all over the chicken legs, then rub in the harissa. Season well and place in a roasting tin. Scatter the garlic over and around the chicken. Squeeze the lemon wedges over, then place them in the tin with the cherry tomatoes, potatoes and olives. Season, drizzle over the oil and toss briefly to mix everything together.",
+			"Cook in the oven for 45 mins-1 hr until the chicken is cooked through and golden. Serve with salad, if you like."
+		],
+		"calories": "619",
+		"url": "Harissa chicken traybake picture",
+		"yield": "4",
+		"Ingredients": [{
+			"food": "chicken",
+			"quantity": "4",
+			"measure": "legs"
+		}, {
+			"food": "harrisa paste",
+			"quantity": "4",
+			"measure": "tbsp"
+		}, {
+			"food": "garlic",
+			"quantity": "1",
+			"measure": "bulb broken into cloves"
+		}, {
+			"food": "lemon",
+			"quantity": "1",
+			"measure": "lemon cut into wedges"
+		}, {
+			"food": "cherry tomatoes",
+			"quantity": "400",
+			"measure": "g"
+		}, {
+			"food": "noew potatoes",
+			"quantity": "350",
+			"measure": "g"
+		}, {
+			"food": "kalamata olives",
+			"quantity": "50",
+			"measure": "g chopped"
+		}, {
+			"food": "olive oil",
+			"quantity": "2",
+			"measure": "tbsp"
+		}, {
+			"food": "green salad(optional)",
+			"quantity": "4",
+			"measure": "servings"
+		}]
+	}, {
+		"title": "Spiced carrot & lentil soup",
+		"prep": ["Heat a large saucepan and dry-fry the cumin seeds and chilli flakes for 1 min, or until they start to jump around the pan and release their aromas. Scoop out about half of the seeds with a spoon and set aside. Add the oil, carrot, lentils, stock and milk to the pan and bring to the boil. Simmer for 15 mins until the lentils have swollen and softened.",
+			"Whizz the soup with a stick blender or in a food processor until smooth (or leave it chunky if you prefer). Season to taste and finish with a dollop of yogurt and a sprinkling of the reserved toasted spices. Serve with warmed naan breads."
+		],
+		"calories": "238",
+		"url": "Spiced carrot & lentil soup picture",
+		"yield": "4",
+		"Ingredients": [{
+			"food": "cumin seeds",
+			"quantity": "2",
+			"measure": "tsp"
+		}, {
+			"food": "chilli",
+			"quantity": "1",
+			"measure": "pinch"
+		}, {
+			"food": "olive oil",
+			"quantity": "2",
+			"measure": "tbsp"
+		}, {
+			"food": "carrots",
+			"quantity": "500",
+			"measure": "g washed"
+		}, {
+			"food": "split red lentils",
+			"quantity": "140",
+			"measure": "g"
+		}, {
+			"food": "vegetable stock",
+			"quantity": "1",
+			"measure": "litre"
+		}, {
+			"food": "milk",
+			"quantity": "125",
+			"measure": "ml"
+		}, {
+			"food": "plain yoghurt and naan",
+			"quantity": "4",
+			"measure": "servings"
+		}]
+	}, {
+		"title": "Chicken & chorizo jambalaya",
+		"prep": ["Heat the oil in a large frying pan with a lid and brown the chicken for 5-8 mins until golden. Remove and set aside. Tip in the onion and cook for 3-4 mins until soft. Then add the pepper, garlic, chorizo and Cajun seasoning, and cook for 5 mins more.",
+			"Stir the chicken back in with the rice, add the tomatoes and stock. Cover and simmer for 20-25 mins until the rice is tender."
+		],
+		"calories": "445",
+		"url": "Chicken & chorizo jambalaya picture",
+		"yield": "4",
+		"Ingredients": [{
+			"food": "olive oil",
+			"quantity": "1",
+			"measure": "tbsp"
+		}, {
+			"food": "chicken breast",
+			"quantity": "2",
+			"measure": "chopped breasts"
+		}, {
+			"food": "onion",
+			"quantity": "1",
+			"measure": "diced onion"
+		}, {
+			"food": "red pepper",
+			"quantity": "1",
+			"measure": "thinly sliced pepper"
+		}, {
+			"food": "garlic",
+			"quantity": "2",
+			"measure": "cloves"
+		}, {
+			"food": "chorizo",
+			"quantity": "75",
+			"measure": "g sliced"
+		}, {
+			"food": "cajun seasoning",
+			"quantity": "1",
+			"measure": "tbsp"
+		}, {
+			"food": "long grain rice",
+			"quantity": "250",
+			"measure": "g"
+		}, {
+			"food": "plum tomato",
+			"quantity": "400",
+			"measure": "g can"
+		}, {
+			"food": "chicken stock",
+			"quantity": "350",
+			"measure": "ml"
+		}]
+	}, {
+		"title": "Chilli Con Carne",
+		"prep": ["Prepare your vegetables. Chop 1 large onion into small dice, about 5mm square. The easiest way to do this is to cut the onion in half from root to tip, peel it and slice each half into thick matchsticks lengthways, not quite cutting all the way to the root end so they are still held together. Slice across the matchsticks into neat dice. Cut 1 red pepper in half lengthways, remove stalk and wash the seeds away, then chop. Peel and finely chop 2 garlic cloves.",
+			"Start cooking. Put your pan on the hob over a medium heat. Add the oil and leave it for 1-2 minutes until hot (a little longer for an electric hob). Add the onions and cook, stirring fairly frequently, for about 5 minutes, or until the onions are soft, squidgy and slightly translucent. Tip in the garlic, red pepper, 1 heaped tsp hot chilli powder or 1 level tbsp mild chilli powder, 1 tsp paprika and 1 tsp ground cumin. Give it a good stir, then leave it to cook for another 5 minutes, stirring occasionally.",
+			"Brown the 500g lean minced beef. Turn the heat up a bit, add the meat to the pan and break it up with your spoon or spatula. The mix should sizzle a bit when you add the mince. Keep stirring and prodding for at least 5 minutes, until all the mince is in uniform, mince-sized lumps and there are no more pink bits. Make sure you keep the heat hot enough for the meat to fry and become brown, rather than just stew.",
+			"Making the sauce. Crumble 1 beef stock cube into 300ml hot water. Pour this into the pan with the mince mixture. Open 1 can of chopped tomatoes (400g can) and add these as well. Tip in half a tsp dried marjoram and 1 tsp sugar, if using (see tip at the bottom), and add a good shake of salt and pepper. Squirt in about 2 tbsp tomato puree and stir the sauce well.",
+			"Simmer it gently. Bring the whole thing to the boil, give it a good stir and put a lid on the pan. Turn down the heat until it is gently bubbling and leave it for 20 minutes. You should check on the pan occasionally to stir it and make sure the sauce doesn't catch on the bottom of the pan or isn't drying out. If it is, add a couple of tablespoons of water and make sure that the heat really is low enough. After simmering gently, the saucy mince mixture should look thick, moist and juicy.",
+			"Bring on the beans. Drain and rinse 1 can of red kidney beans (410g can) in a sieve and stir them into the chilli pot. Bring to the boil again, and gently bubble without the lid for another 10 minutes, adding a little more water if it looks too dry. Taste a bit of the chilli and season. It will probably take a lot more seasoning than you think. Now replace the lid, turn off the heat and leave your chilli to stand for 10 minutes before serving, and relax. Leaving your chilli to stand is really important as it allows the flavours to mingle and the meat.",
+			"Serve with soured cream and plain boiled long grain rice."
+		],
+		"calories": "387",
+		"url": "Chilli Con Carne picture",
+		"yield": "4",
+		"Ingredients": [{
+			"food": "oil",
+			"quantity": "1",
+			"measure": "tbsp"
+		}, {
+			"food": "pepper",
+			"quantity": "1",
+			"measure": "large"
+		}, {
+			"food": "garlic",
+			"quantity": "2",
+			"measure": "peeled cloves"
+		}, {
+			"food": "chilli powder",
+			"quantity": "1",
+			"measure": "heaped tsp"
+		}, {
+			"food": "paprika",
+			"quantity": "1",
+			"measure": "tsp"
+		}, {
+			"food": "ground cumin",
+			"quantity": "1",
+			"measure": "tsp"
+		}, {
+			"food": "lean minced beef",
+			"quantity": "500",
+			"measure": "g"
+		}, {
+			"food": "beef stock",
+			"quantity": "1",
+			"measure": "stock cube"
+		}, {
+			"food": "chopped tomatoes",
+			"quantity": "400",
+			"measure": "g can"
+		}, {
+			"food": "dried marjoram",
+			"quantity": "1",
+			"measure": "half tsp"
+		}, {
+			"food": "sugar",
+			"quantity": "1",
+			"measure": "tsp"
+		}, {
+			"food": "tomato puree",
+			"quantity": "2",
+			"measure": "tbsp"
+		}, {
+			"food": "red kidney beans",
+			"quantity": "410",
+			"measure": "g can"
+		}, {
+			"food": "plain boiled rice",
+			"quantity": "4",
+			"measure": "servings"
+		}, {
+			"food": "sour cream",
+			"quantity": "4",
+			"measure": "servings"
+		}]
+	}]
+}

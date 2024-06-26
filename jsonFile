@@ -1,0 +1,41 @@
+{
+	"recipes":
+	[
+		{
+			"title": "spaghetti bolognaise",
+			"prep": ["boil pasta", "cook meat", "put sauce on", "DONE."],
+			"calories": "674.6",
+			"url": "bologs.com",
+			"yield": "4",
+			"ingr":
+				[
+					{'quantity': '10', 'food': 'spaghetti' , 'weight': '500', 'measure': 'g'}, 
+					{'quantity': '9', 'food': 'mincemeat', 'weight': '1', 'measure': 'kg'}
+				]
+		},
+		{
+			"title": "sandwich",
+			"prep": ["get bread and butter it", "apply spread evenly and then cut"],
+			"calories": "94.65675",
+			"url": "sandwich.com",
+			"yield": "1",
+			"ingr":
+				[
+					{'quantity': '2', 'food': 'slice of bread'}, 
+					{'food': 'some butter'},
+					{'food': 'some sort of spread'}
+				]
+		},
+		{
+			"title": "Zoes Fav",
+			"prep": ["Get Hummus", "Get more Hummus"],
+			"calories": "2.03",
+			"url": "hummus.zoe.com",
+			"yield": "1",
+			"ingr":
+				[
+					{'quantity': '1', 'food': 'Hummus'}
+				]
+		}
+	]
+}
